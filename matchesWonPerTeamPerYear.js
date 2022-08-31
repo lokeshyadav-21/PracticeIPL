@@ -31,7 +31,7 @@ for (let index = 0; index < matches.length; index++) {            // iteration f
     }
 }
 
-console.log(matchesWonPerTeamPerYear);                            // consoling  the data of {year: { won: count}}
+console.log(matchesWonPerTeamPerYear);                            // consoling  the data of {season: { winner: count}}
 
 
 
